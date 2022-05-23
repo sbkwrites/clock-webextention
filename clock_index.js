@@ -22,5 +22,5 @@ function clock() {// We create a new Date object and assign it to a variable cal
     }
     setInterval(clock, 1000);
     
-    
+    //Dont know why this is added
     document.getElementById
